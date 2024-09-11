@@ -1,5 +1,8 @@
 # Blinkit Data Analysis Dashboard
 
+![blinkit_data_analysis_dashboard](https://github.com/user-attachments/assets/e3869fde-6ecb-4050-9c61-62ddf6246965)
+
+
 ## Project Overview:-
 
 This project presents a comprehensive Power BI dashboard for analyzing Blinkit's sales performance, customer satisfaction, and inventory distribution. The dashboard provides key insights and opportunities for optimization using various KPIs and visualizations.
