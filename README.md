@@ -1,20 +1,39 @@
+# Blinkit Sales Analysis - Power BI
+
+This project provides an in-depth analysis of Blinkit Sales Data, exploring trends in Quick Commerce by examining various sales metrics per outlet type, outlet establishment year, location type, customer ratings, and more. The dashboard is designed to facilitate actionable insights into sales performance across different dimensions.
+
+## Project Overview
+
+Quick Commerce is emerging as a popular trend compared to traditional E-Commerce. This analysis dashboard leverages Blinkit sales data to provide comprehensive insights across multiple dimensions including outlet types, customer preferences, and regional performance.
+
+### Key Metrics
+- **Total Sales - $1.20 M** | **Average Sales - $141**
+- **Number of Items - 8,523** | **Average Rating - 3.9**
+
 # Blinkit Data Analysis Dashboard
 
 ![blinkit_data_analysis_dashboard](https://github.com/user-attachments/assets/e3869fde-6ecb-4050-9c61-62ddf6246965)
 
+The dashboard uses various visualization techniques for a clear and actionable analysis of the sales data:
 
-## Project Overview:-
+- **Donut Charts**
+  - **Fat Content**: Distribution between Low Fat and Regular items.
+  - **Outlet Size**: Representation of different outlet sizes.
 
-This project presents a comprehensive Power BI dashboard for analyzing Blinkit's sales performance, customer satisfaction, and inventory distribution. The dashboard provides key insights and opportunities for optimization using various KPIs and visualizations.
+- **Clustered Bar Charts**
+  - **Item Types**: Distribution of sales across different item types.
+  - **Fat by Outlet**: Analysis of fat content distribution by outlet type.
 
-## Key Performance Indicators (KPIs):-
+- **Funnel Chart**
+  - **Outlet Location Type**: Analysis of outlet performance by location type (Tier 1, Tier 2, Tier 3 cities).
 
-The dashboard focuses on the following primary KPIs:
+- **Line Chart**
+  - **Outlet Establishment Year by Sales**: Trends in sales performance based on the year of establishment.
 
-1. Total Sales: Overall revenue generated from all items sold ($1.20M)
-2. Average Sales: Average revenue per sale ($141)
-3. Number of Items: Total count of different items sold (8523)
-4. Average Rating: Average customer rating for items sold (3.9 out of 5)
+
+## Filters
+
+The dashboard includes filters to refine the data and facilitate targeted analysis, allowing for a more customized insight into specific parameters.
 
 ## Features
 
