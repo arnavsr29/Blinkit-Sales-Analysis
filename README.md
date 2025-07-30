@@ -1,4 +1,4 @@
-# 📊 Blinkit Sales Analysis - Power BI
+# 📊 Blinkit Sales Findings - Power BI
 
 This project provides an in-depth analysis of Blinkit Sales Data, exploring trends in Quick Commerce by examining various sales metrics per outlet type, outlet establishment year, location type, customer ratings, and more. The dashboard is designed to facilitate actionable insights into sales performance across different dimensions.
 
